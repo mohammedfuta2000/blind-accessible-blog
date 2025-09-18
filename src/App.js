@@ -989,7 +989,7 @@ const AccessibleBlog = () => {
 
         .posts-count {
           font-size: 1rem;
-          color: #7f8c8d;
+          color: #5a6c7d;
           font-weight: normal;
         }
 
@@ -1062,7 +1062,7 @@ const AccessibleBlog = () => {
           border: none;
           font-size: 1.2rem;
           cursor: pointer;
-          color: #7f8c8d;
+          color: #5a6c7d;
           padding: 4px;
           border-radius: 2px;
         }
@@ -1076,7 +1076,7 @@ const AccessibleBlog = () => {
 
         .search-help {
           font-size: 0.9rem;
-          color: #7f8c8d;
+          color: #5a6c7d;
           margin-top: 0.5rem;
         }
 
@@ -1119,7 +1119,7 @@ const AccessibleBlog = () => {
           gap: 2rem;
           margin-bottom: 1rem;
           font-size: 0.9rem;
-          color: #7f8c8d;
+          color: #5a6c7d;
         }
 
         .post-date {
@@ -1158,7 +1158,7 @@ const AccessibleBlog = () => {
         .loading-state {
           text-align: center;
           padding: 3rem;
-          color: #7f8c8d;
+          color: #5a6c7d;
           font-size: 1.1rem;
         }
 
@@ -1180,7 +1180,7 @@ const AccessibleBlog = () => {
         .empty-state {
           text-align: center;
           padding: 3rem;
-          color: #7f8c8d;
+          color: #5a6c7d;
           font-size: 1.1rem;
         }
 
@@ -1192,7 +1192,7 @@ const AccessibleBlog = () => {
 
         .pagination-info {
           margin-bottom: 1rem;
-          color: #7f8c8d;
+          color: #5a6c7d;
           font-size: 0.9rem;
         }
 
@@ -1240,7 +1240,7 @@ const AccessibleBlog = () => {
 
         .pagination-ellipsis {
           padding: 0.5rem;
-          color: #7f8c8d;
+          color: #5a6c7d;
         }
 
         /* Admin form */
@@ -1385,7 +1385,7 @@ const AccessibleBlog = () => {
 
         .form-help {
           font-size: 0.9rem;
-          color: #7f8c8d;
+          color: #5a6c7d;
           margin-bottom: 1rem;
         }
 
