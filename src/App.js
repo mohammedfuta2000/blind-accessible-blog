@@ -1127,7 +1127,7 @@ const AccessibleBlog = () => {
         }
 
         .post-category {
-          background-color: #3498db;
+          background-color: #1e5bb8;
           color: white;
           padding: 0.25rem 0.75rem;
           border-radius: 12px;
@@ -1357,7 +1357,7 @@ const AccessibleBlog = () => {
         }
 
         .submit-button {
-          background-color: #27ae60;
+          background-color: #1e7e34;
           color: white;
           border: none;
           padding: 0.75rem 2rem;
@@ -1370,12 +1370,12 @@ const AccessibleBlog = () => {
         }
 
         .submit-button:hover:not(:disabled) {
-          background-color: #229954;
+          background-color: #155724;
         }
 
         .submit-button:focus {
           outline: none;
-          box-shadow: 0 0 0 3px rgba(39, 174, 96, 0.3);
+          box-shadow: 0 0 0 3px rgba(30, 126, 52, 0.3);
         }
 
         .submit-button:disabled {
